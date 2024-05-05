@@ -6,7 +6,7 @@ import os
 import sys
 from datetime import datetime
 
-# Hardcoded a list of common passwords
+# List of common passwords
 common_passwords = [
     "password", "123456", "12345678", "1234", "qwerty", "12345", "dragon", "pussy", "baseball", 
     "football", "letmein", "monkey", "696969", "abc123", "mustang", "michael", "shadow", "master", 
