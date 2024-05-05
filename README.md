@@ -10,12 +10,12 @@ The Password Strength Evaluator and Report Generator is a Python program designe
 - User-friendly command-line interface for ease of use.
 
 ## Installation
-1. Clone the repository:
-2. Navigate to the directory containing the program:
+1. Clone the repository.
+2. Navigate to the directory containing the program.
 
 
 ## Usage
-1. Run the program:
+1. Run the program.
 2. Follow the prompts to enter passwords for evaluation.
 3. View the generated password strength reports for detailed analysis.
 
@@ -26,5 +26,5 @@ Contributions to this project are welcome! Feel free to submit bug reports, sugg
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For questions or support, feel free to contact Yis Goldt here on GitHub.
+For questions or support, feel free to contact Yis here on GitHub.
 
